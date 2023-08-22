@@ -1,6 +1,6 @@
-# Signing-in
+# Student Sign-in
 
-This GUI allows you to type in ID which is your first.lastname then a 2-digit number. After entering your information, you will receive a response saying "Hello and Welcome...  Your ID information you enter will completely be in Asterisk so you can't view what you're written out until you submit to view on Console
+This GUI allows a student to type in his/her ID which is your first.lastname then a 2-digit number. After entering your information, you will receive a response saying "Hello and Welcome...  Your ID information you enter will completely be in Asterisk so you can't view what you're written out until you submit to view on Console
 
 Here are the buttons you can click on:
 
